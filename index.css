@@ -19,7 +19,9 @@ main {
 a {
     color: black;
     text-align: center;
-    display: inline-block; 
+    display: inline; 
+    text-align: center;
+    padding: 10px;
 }
 
 h1 {
@@ -36,4 +38,12 @@ h1 {
     background-position: center;
     margin-left: auto;
     margin-right: auto;
+}
+
+hr {
+    color: lightgrey;
+}
+
+#hej {
+    text-align: center;
 }
