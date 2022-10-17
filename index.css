@@ -3,6 +3,7 @@ body {
     width: 600px;
     margin-left: auto;
     margin-right: auto;
+    font-family: georgia;
 }
 
 main {
@@ -14,6 +15,13 @@ main {
     text-align: center;
     padding: 10px;
     color: rgb(169, 169, 134);
+}
+
+nav {
+    margin-left: 150px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    text-decoration: dotted;
 }
 
 a {
