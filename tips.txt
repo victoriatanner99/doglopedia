@@ -1,0 +1,4 @@
+- Sidan har en bredd på 600px (med automatiska marginaler)
+- Navigationen nyttjar "inline-block"
+- Observera att det är lite "border-radius" i rutan med sidans titel
+- Bilden är en cirkel på 300x300 pixlar (observera att den har en "border")
