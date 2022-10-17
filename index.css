@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main {
+   
+}       
+
+#doglopedia {
+    background-color: rgba(242, 231, 125, 0.5);
+    text-align: center;
+    padding: 10px
+}
+
+a {
+    color: black;
+    text-align: center;
+    display: inline-block;
+}
+
+h1 {
+    text-align: center;
+    color: ;
+}
+
+#image {
+    border-radius: 50%;
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    background-image: url(images/The-Boxer-Dog-HP-long.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+}
