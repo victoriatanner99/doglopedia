@@ -5,11 +5,7 @@ body {
     margin-right: auto;
     font-family: georgia;
 }
-
-main {
    
-}       
-
 #doglopedia {
     background-color: rgba(242, 231, 125, 0.5);
     text-align: center;
@@ -21,15 +17,13 @@ nav {
     margin-left: 150px;
     padding-bottom: 10px;
     padding-top: 20px;
-    text-decoration: dotted;
 }
 
 a {
     color: black;
     text-align: center;
-    display: inline; 
-    text-align: center;
     padding: 10px;
+    text-decoration-style: dotted;
 }
 
 h1 {
@@ -49,9 +43,16 @@ h1 {
 }
 
 hr {
-    color: lightgrey;
+    color: rgba(211, 211, 211, 0.5);
+    border-bottom: 1px;
 }
 
 #hej {
     text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#boy {
+    font-style: italic;
 }
